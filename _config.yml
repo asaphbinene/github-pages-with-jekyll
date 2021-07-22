@@ -9,6 +9,6 @@ description: IT Hardware and software support and maintrnance, Database and Syst
 
 # social links
 twitter_username: @asaphbinene # DO NOT include the @ character, or else the build will fail!
-github_username:  asaphbinene # DO NOT include the @ character, or else the build will fail!
+github_username:  @asaphbinene # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
